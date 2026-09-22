@@ -1,1 +1,2 @@
 This is my Git practice note.
+This is an updated practice note.
